@@ -1,0 +1,10 @@
+
+
+
+Expected Outcomes:
+The project is anticipated to provide a system for accurately forecasting stock price trends over a specific time period. The algorithm will be able to produce forecasts that investors may use to decide wisely whether to buy or sell stocks. Also, the experiment will provide light on how well RNN and LSTM algorithms anticipate stock prices.
+
+
+
+
+
